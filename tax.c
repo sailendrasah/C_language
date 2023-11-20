@@ -13,7 +13,7 @@ int main(){
         tax=tax+0.15*(income-3000000);
     }
      if(income>5000000 && income<6000000){
-        tax=tax+0.20*(income-5000000);
+        tax=tax+0.11*(income-5000000);
     }
      if(income>7000000 && income<8000000){
         tax=tax+0.30*(income-7000000);
