@@ -5,7 +5,6 @@ int main(){
     // scanf("%d",&n);
     while(n){
     printf("enter the value");
-
     scanf("%d",&n);
 if(n>0){
 p++;
